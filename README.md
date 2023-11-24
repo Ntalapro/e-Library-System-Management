@@ -185,7 +185,7 @@ ENDPOINTS
 Deployment N/A
 
 Authors
-Tshepiso Ncosane & Thabiso Hlatshwayo
+Tshepiso Ncosane & Thabiso Hlatshwayo & Zwelly Sithole
 
 Acknowledgements
 The awesome Team
